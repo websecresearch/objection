@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/sensepost/objection#readme",
   "dependencies": {
-    "frida-java-bridge": "^6",
+    "frida-java-bridge": "^6.2.3",
     "frida-objc-bridge": "^7",
     "frida-screenshot": "^3",
     "macho": "^1"
